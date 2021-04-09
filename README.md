@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `npx json-server`
+
+Use "npx json-server --watch data/db.json --port 8000" to run the json server in development mode". Check (https://www.npmjs.com/package/json-server?activeTab=readme) for more information on using the json-server.
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
